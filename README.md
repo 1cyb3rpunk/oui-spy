@@ -182,6 +182,12 @@ Enhance your OUI-SPY with custom 3D printed cases and accessories:
 - Protective design for field use and storage
 - Easy access to controls and indicators
 
+### [OUI-SPY Case – Slide-Lid, Flush USB-C Port](https://makerworld.com/en/models/3644976-oui-spy-case-slide-lid-flush-usb-c-port?from=search#profileId-4181453)
+** by 1cyb3rpunk**
+- Secure fit for OUI-SPY board with proper ventilation
+- Protective design for single unit field use and storage
+- Easy access to controls and indicators
+
 ### [OUI-SPY Keychain](https://makerworld.com/en/models/1798874-oui-spy-keychain#profileId-1918093)
 **by out0fstep**
 - Portable keychain case for everyday carry
